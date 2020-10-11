@@ -17,7 +17,7 @@ window.GameConstants = {
       return width / 3;
     },
     getY: window.getWizardY || function (height) {
-      return height-600;
+      return height-10600;
     }
   }
 };
